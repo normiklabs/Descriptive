@@ -10,6 +10,3 @@ Thumbs.db
 # Logs
 logs/
 *.log
-
-# Relay Code
-/relay/

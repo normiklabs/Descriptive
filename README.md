@@ -2,9 +2,9 @@
 
  ![Descriptive](https://cdn.modrinth.com/data/cached_images/6e1bad1d4b5c8179be9fac082f91908792218b05.png)
 
-[![Email](https://img.shields.io/badge/Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@knochenn.de)
-[![Support on Ko-Fi](https://img.shields.io/badge/Support%20on%20Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/knochennmc)
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue?style=for-the-badge)](https://github.com/DevKnochen/Descriptive/blob/main/LICENSE)
+[![Email](https://img.shields.io/badge/Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:contact@normik.org)
+[![Support on Ko-Fi](https://img.shields.io/badge/Support%20on%20Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/normiklabs)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue?style=for-the-badge)](https://github.com/normiklabs/Descriptive/blob/main/LICENSE)
 
 ### Why have a boring white name when you could have _**this**_?
 
@@ -94,13 +94,13 @@ Fine-tune how fast everything plays with the speed slider. Anywhere from a 0.1×
 
 ## 🐛 Something broken?
 
-Open an issue on [GitHub](https://github.com/DevKnochen/Descriptive/issues). Describe your issue, include what version you're on, what other mods you have and any crash logs. We'll sort it out.
+Open an issue on [GitHub](https://github.com/normiklabs/Descriptive/issues). Describe your issue, include what version you're on, what other mods you have and any crash logs. We'll sort it out.
 
 ---
 
 ## 📩 Contact
 
-Reach out to us at contact@knochenn.de
+Reach out to us at contact@normik.org
 
 ---
 

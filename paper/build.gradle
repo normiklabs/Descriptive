@@ -1,11 +1,11 @@
 plugins {
     id 'java'
     id 'io.github.goooler.shadow' version '8.1.8'
-    id 'xyz.jpenilla.run-paper' version '2.3.1'
+    id 'xyz.jpenilla.run-paper' version '3.1.0'
 }
 
-group = 'de.devknochen'
-version = '1.0.0'
+group = 'org.normik'
+version = '1.3.0'
 
 repositories {
     mavenCentral()
@@ -13,15 +13,10 @@ repositories {
         name = 'papermc-repo'
         url = 'https://repo.papermc.io/repository/maven-public/'
     }
-    maven {
-        name = 'packetevents-repo'
-        url = 'https://repo.codemc.io/repository/maven-releases/'
-    }
 }
 
 dependencies {
-    compileOnly 'io.papermc.paper:paper-api:1.21.1-R0.1-SNAPSHOT'
-    implementation 'com.github.retrooper:packetevents-spigot:2.11.2'
+    compileOnly 'io.papermc.paper:paper-api:26.3.build.+'
 }
 
 shadowJar {
@@ -30,14 +25,14 @@ shadowJar {
 
 tasks {
     runServer {
-        minecraftVersion('1.21.1')
+        minecraftVersion('26.3')
     }
     build {
         dependsOn shadowJar
     }
 }
 
-def targetJavaVersion = 21
+def targetJavaVersion = 25
 java {
     def javaVersion = JavaVersion.toVersion(targetJavaVersion)
     sourceCompatibility = javaVersion
