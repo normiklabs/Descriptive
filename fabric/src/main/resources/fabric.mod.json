@@ -5,7 +5,9 @@
   "name": "Descriptive",
   "icon": "assets/descriptive/icon_blur.png",
   "description": "Customize your in-game name with (basically) no limits!",
-  "authors": ["DevKnochen"],
+  "authors": [
+    "DevKnochen"
+  ],
   "license": "Apache-2.0",
   "contact": {
     "sources": "https://github.com/DevKnochen/Descriptive",
@@ -14,13 +16,13 @@
   "environment": "*",
   "entrypoints": {
     "main": [
-      "de.devknochen.descriptive.Descriptive"
+      "org.normik.descriptive.Descriptive"
     ],
     "client": [
-      "de.devknochen.descriptive.client.DescriptiveClient"
+      "org.normik.descriptive.client.DescriptiveClient"
     ],
     "server": [
-      "de.devknochen.descriptive.server.DescriptiveServer"
+      "org.normik.descriptive.server.DescriptiveServer"
     ]
   },
   "mixins": [
@@ -29,7 +31,7 @@
   "depends": {
     "fabricloader": ">=0.15.0",
     "fabric-api": "*",
-    "minecraft": "~26.2",
+    "minecraft": "~26.3",
     "java": ">=25"
   }
 }

@@ -18,12 +18,12 @@ We generally only address security issues in the **latest release** of each proj
  
 Instead, send an email to:
  
-**security@knochenn.de**
+**secure@normik.org**
  
 If possible, please encrypt your message using our PGP key to keep your report confidential:
  
-- **Key:** https://keys.openpgp.org/vks/v1/by-fingerprint/2ED290123EE5AD1AF13F1E486214C0AC8F802626
-- **Fingerprint:** `2ED2 9012 3EE5 AD1A F13F 1E48 6214 C0AC 8F80 2626`
+- **Key:** NOT AVAIL
+- **Fingerprint:** `NOT AVAIL`
 
 We aim to acknowledge your report within **24 hours**.
  

@@ -1,6 +1,6 @@
 {
   "required": true,
-  "package": "de.devknochen.descriptive.client.mixin",
+  "package": "org.normik.descriptive.client.mixin",
   "compatibilityLevel": "JAVA_25",
   "client": [
     "AdvancementToastMixin",
